@@ -11,7 +11,7 @@ import datetime
 import os
 
 # Change the current directory to the directory containing the sqlite3.h file.                                       Note: Database location
-os.chdir('/Users/aaronberkness/Documents/Finances/Finances/FINANCE_DATABASE_FILES')
+os.chdir('/Users/...')
 
 # Import the sqlite3.h file.
 import sqlite3 
